@@ -11,7 +11,7 @@ Código referente aos vídeos apresentados (clique na imagem deles abaixo para a
 ## Vídeo 2 "Como será que eu fiz o Back-End do meu App feito no Flutter??? - Parte 2"
 
 <p align="center">
-  <a href="https://youtu.be/N85dkzppKH0"><img src="https://img.youtube.com/vi/N85dkzppKH0/maxresdefault.jpg"></a>
+  <a href="https://youtu.be/COr9B7AJDVw"><img src="https://img.youtube.com/vi/COr9B7AJDVw/maxresdefault.jpg"></a>
 </p>
 
 ## Vídeo 3 "O código completo do meu app feito em Flutter e Dart - Parte 3"
